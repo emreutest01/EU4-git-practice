@@ -1,5 +1,4 @@
 public class HelloTest {
-    public static void main(String[] args) {
-        System.out.println("hellotest");
+ // testing my awesome hello
     }
-}
+
